@@ -2,7 +2,7 @@
 
 ## AI and Deep Learning Models for Financial Assistant Chatbot
 
-In this document, we present several open-source and free AI and deep learning models that we have considered for use in our financial assistant chatbot.
+In this document,we present several open-source and free AI and deep learning models that we have considered for use in our financial assistant chatbot.
 
 **Large Language Models (LLMs):**
 
